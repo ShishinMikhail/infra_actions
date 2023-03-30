@@ -1,4 +1,6 @@
+# pylint: disable=missing-class-docstring
 from http import HTTPStatus
+
 from django.test import Client, TestCase
 
 
